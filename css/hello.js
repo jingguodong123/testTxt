@@ -1,4 +1,4 @@
 function add(){
-    let num = 100;
+    let num = 96;
     return num
 }
