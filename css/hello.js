@@ -8,3 +8,6 @@ function foo(){
 function res(){
     
 }
+function dadt(){
+
+}
